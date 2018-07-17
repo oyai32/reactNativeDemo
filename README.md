@@ -8,7 +8,7 @@ reactNative初学者demo
 
 我是用ES6写的android版
 
-###安装与运行
+### 安装与运行
 
 npm install
 
